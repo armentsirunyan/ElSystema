@@ -1,0 +1,11 @@
+form {    
+    position: absolute; 
+    bottom:3px; 
+    right:3px;
+}
+input {    
+    color: #FFF;
+    background-color: #81BEF7;
+    font-weight: bold;
+    
+}
